@@ -1,0 +1,53 @@
+* {
+   margin:0px;
+   padding:opx;}
+
+section,header,nav,aside,footer{display:block;}
+
+body {width:100%;
+     }
+
+	  
+
+#header1 {text-color:white;
+	      width:1350px;
+		  text-align:center;
+	      color:white;
+		  padding-top:30px;
+		  border:4px solid black;
+          background:black;
+		  height:80px;
+          }
+		  
+#nav1 {float:left;
+	   width:1350px;
+	   height:50px;
+	   border:4px solid black;
+       background-color:orange;
+	   color:white;}
+	   
+#nav1 li{display:inline-block;
+		 padding:10px;
+		 margin:10px;
+         font:bold 14px tahoma;
+		 }
+		 
+#para {display:inline-block;
+	   margin-top:30px;
+	   
+       width:850px;
+       padding:25px;
+	   font:30px;} 		 
+
+	   
+#myprofile{margin-left:900px;
+           margin-top:-450px;
+          border:1px solid black;
+		  width:400px;
+		  height:800px;}	   
+		  
+#text {text-align:center;
+	   width:380px;
+	   padding:10px;
+       background:silver;
+	   font:20px bold ;}	   
